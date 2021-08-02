@@ -1,4 +1,12 @@
-### Hi welcome to my profile
+# Hi welcome to my profile
+I hope your day is very pleasant,
+
+### and about me
+
+
+Find me on discord, my discord name **FuadJTM ࿐#1025**
+
+
 ***
-![ZeroDiscord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FuadJTM&show_icons=true&theme=gruvbox)
+![FuadJTM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FuadJTM&show_icons=true&theme=gruvbox)
 ***
