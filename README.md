@@ -1,13 +1,11 @@
-# Welcome to my profile
+# Welcome to my GitHub profile
 ***
-### I hope you are in good health always 🤗
+#### I hope you are in good health always 🤗
 * Introduce my name is **Dian**,           
-It's just that I use a pseudonym that is **FuadJTM** hahaha 😄😄     
-You can also find me at [**Discord**](https://discord.com)     
-And my name on discord is       
-**__FuadJTM ࿐#1922__**                     
+It's just that I use a pseudonym that is **FuadJTM** hahaha 😄😄</br>You can also find me at [**Discord**](https://discord.com)     
+And my name on discord is **__FuadJTM ࿐#1922__**                     
 You are free to call me by any name
-* My hobby is **programming 🖥️**              
-And now I'm studying or learning how to use `HTML` and `CSS`       
-Not something easy to learn new things for me 
-
+* My hobby is **programming 🖥️**</br>    
+And now I'm studying or learning how to use</br>`HTML` and `CSS`       
+Not something easy to learn new things for me.
+***
