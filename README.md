@@ -1,6 +1,9 @@
-## Welcome to my GitHub profile
 ***
-#### I hope you are in good health always 🤗
+![FuadJTM GitHub](https://media.discordapp.net/attachments/869449168496758854/874733937740615741/20210811_022014.png)
+***
+### Welcome to my GitHub profile
+***
+##### I hope you are in good health always 🤗
 * Introduce my name is **Dian**,           
 It's just that I use a pseudonym that is **FuadJTM** hahaha 😄😄</br>You can also find me at [**Discord**](https://discord.com)     
 And my name on discord is **__FuadJTM ࿐#1922__**                     
