@@ -3,7 +3,7 @@
 ***
 ### Welcome to my GitHub profile
 ***
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff0000&lines=Hi%2C+I'm+FuadJTM%235558;And+this+is+my+profile;I+hope+you+are+alright;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=65f087&lines=Hi%2C+I'm+FuadJTM%235558;And+this+is+my+profile;I+hope+you+are+alright+🤗;)](https://git.io/typing-svg)
 
 <details><summary>My bio ?</summary>
 
